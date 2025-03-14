@@ -1,4 +1,4 @@
-#MEAN stack project for performing Create, Read, Update, Delete operations on data in MongoDB
+MEAN stack project for performing Create, Read, Update, Delete operations on data in MongoDB
 
 # Client
 
