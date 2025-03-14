@@ -1,3 +1,5 @@
+#MEAN stack project for performing Create, Read, Update, Delete operations on data in MongoDB
+
 # Client
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
